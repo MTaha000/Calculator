@@ -1,0 +1,110 @@
+@media(max-width:950px){
+    #container h1{
+        font-size: 35px;
+    }
+    #calculatorbox {
+        height: 400px;
+        width: 400px;
+        
+    }
+    .result{
+        height: 30%;
+        width: 100%;
+       
+    }
+    .num{
+        padding-top: 5px;
+    }
+    .num input{
+        height: 50px;
+        width: 70px;
+        
+    }
+    .symbols{
+        padding-top: 5px;
+       
+    }
+    .symbols input{
+        margin: 10px;
+        width: 70px;
+        height: 50px;
+        border-radius: 20px;
+    }
+}
+
+@media(max-width:510px){
+    #container h1{
+        font-size: 30px;
+    }
+    #calculatorbox {
+        height: 350px;
+        width: 300px;
+        
+    }
+    .result{
+        height: 30%;
+        width: 100%;
+       
+    }
+    .num{
+        padding-top: 5px;
+    }
+    .num input{
+        height: 35px;
+        width: 50px;
+        
+    }
+    .symbols{
+        padding-top: 5px;
+       
+    }
+    .symbols input{
+        margin: 10px;
+        width: 50px;
+        height: 35px;
+        
+    }
+}
+@media(max-width:360px){
+    #container h1{
+        font-size: 25px;
+        padding: 7px 20px;
+    }
+    #calculatorbox {
+        height: 300px;
+        width: 240px;
+        
+    }
+    .result{
+        height: 20%;
+        width: 100%;
+       
+    }
+    .result input{
+        font-size: 35px;
+    }
+    .buttons{
+        height: 80%;
+    }
+    .num{
+        padding-top: 5px;
+    }
+    .num input{
+        height: 35px;
+        width: 35px;
+        
+    }
+    .symbols{
+        padding-top: 5px;
+       
+    }
+    .symbols input{
+        margin: 10px;
+        width: 35px;
+        height: 35px;
+        
+    }
+    .btn{
+        font-size: 20px;
+    }
+}
