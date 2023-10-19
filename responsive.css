@@ -90,8 +90,8 @@
         padding-top: 5px;
     }
     .num input{
-        height: 35px;
-        width: 35px;
+        height: 30px;
+        width: 30px;
         
     }
     .symbols{
@@ -100,8 +100,8 @@
     }
     .symbols input{
         margin: 10px;
-        width: 35px;
-        height: 35px;
+        width: 30px;
+        height: 30px;
         
     }
     .btn{
